@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"MyService","l":"getMyEntity()"},{"p":"<Unnamed>","c":"MyService","l":"getName()"},{"p":"<Unnamed>","c":"MyService","l":"MyService()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"MyService","l":"setMyEntity(MyEntity)"}]

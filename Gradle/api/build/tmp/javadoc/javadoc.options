@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\api\\build\\classes\\java\\main;C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\api\\build\\resources\\main;C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\build\\libs\\db.jar;C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\service\\build\\libs\\service-1.0-SNAPSHOT.jar'
+-d 'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\api\\build\\docs\\javadoc'
+-doctitle 'api 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'api 1.0-SNAPSHOT API'
+'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\api\\src\\main\\java\\Main.java'
