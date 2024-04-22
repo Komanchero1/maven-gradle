@@ -1,9 +1,0 @@
--classpath 'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\build\\classes\\java\\main;C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\build\\resources\\main'
--d 'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\build\\docs\\javadoc'
--doctitle 'db API'
--notimestamp 
--quiet 
--windowtitle 'db API'
-'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\src\\main\\java\\Db.java'
-'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\src\\main\\java\\DbSetting.java'
-'C:\\Users\\mehan\\IdeaProjects\\multiProject-gradle\\db\\src\\main\\java\\MyEntity.java'
